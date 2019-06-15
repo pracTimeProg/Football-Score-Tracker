@@ -5,5 +5,5 @@ Please read **README.md**, not **README.rdoc** (this is empty)
 
 ## App In Use
 
-<img src="Football-Score-Tracker/app-in-use.gif" width="100" height="10" >
+<img src="app-in-use.gif" width="100" height="10" >
 
