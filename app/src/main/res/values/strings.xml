@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Score Keeper</string>
+
+    <string name="football_match_scorer">Football Match Tracker</string>
+    <string name="team_a_name_txt">Team A</string>
+    <string name="team_b_name_txt">Team B</string>
+
+    <string name="team_goal_header">Goals</string>
+    <string name="team_foul_header">Fouls</string>
+
+    <string name="team_initial_score">0</string>
+
+    <string name="goals_scored_button_txt">Goal</string>
+    <string name="foul_received_button_txt">Foul</string>
+
+    <string name="reset_button_txt">Reset</string>
+</resources>

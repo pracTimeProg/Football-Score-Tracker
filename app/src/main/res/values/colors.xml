@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00abff</color>
+    <color name="colorPrimaryDark">#009ae6</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="foulButtonColor">#f02400</color>
+    <color name="resetButtonColor">#E2F000</color>
+</resources>
