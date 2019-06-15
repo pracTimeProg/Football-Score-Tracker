@@ -5,5 +5,5 @@ Please read **README.md**, not **README.rdoc** (this is empty)
 
 ## App In Use
 
-<img src="app-in-use.gif">
+<img src="app-in-use.gif" width="275" height="500">
 
